@@ -1,8 +1,8 @@
 # Jyväskylän kaupungin ostot 2012-2021    
 
-## Johdanto
+## Esittely
 
-Tässä tehtävässä käytetään aineistona Jyväskylän kaupungin ostolaskuja vuosilta 2012-2021, ja sitä käsitellään ja analysoidaan Pythonilla JupyterLabin avulla. Tiedot on tuotu Excel-tiedostoista, jotka on ladattu 9.5.2023 Jyväskylän kaupungin avoimen datan palvelusta osoitteesta https://data.jyvaskyla.fi/data.php. Aineistosta kerrotaan sivustolla seuraavasti: 
+Tässä tehtävässä käytetään aineistona Jyväskylän kaupungin ostolaskuja vuosilta 2012-2021, ja sitä käsitellään ja analysoidaan Pythonin Pandas-kirjaston ja JupyterLabin avulla. Tiedot on tuotu Excel-tiedostoista, jotka on ladattu 9.5.2023 Jyväskylän kaupungin avoimen datan palvelusta osoitteesta https://data.jyvaskyla.fi/data.php. Aineistosta kerrotaan sivustolla seuraavasti: 
 
 > Tiedoissa on mukana kaupungin kaikki toimialat ja liikelaitokset. Tiedot sisältävät ostolaskutiedot sekä luottokorttiostotiedot. Ostotiedot on poimittu ostolaskujen käsittelyjärjestelmästä ja kirjanpidosta ulkoisten palvelujen ja tarvikkeiden sekä käyttöomaisuusostojen tileiltä.
 >
@@ -17,4 +17,4 @@ Aineisto ei ole täydellistä, vaan se sisältää puuttuvia arvoja ja kirjoitus
 
 ## Rakenne   
 
-Tehtävä on jaettu kahteen Jupyter-tiedostoon. Ensimmäinen näistä on nimeltään *'ostolaskut_aineisto'*, ja siinä tuodaan ostolaskuaineisto Excel-tiedostoista, koostetaan ja siivotaan jatkokäyttöä varten. Saatu datakehikko tallennetaan lopuksi csv-tiedostoksi, ja sitä käytetään myöhemmin analyysiosiossa. Ostolaskujen analyysi kokonaisuudessaan löytyy toisesta tiedostosta *'ostolaskut_anallyysi.ipynb'*.
+Tehtävä on jaettu kahteen Jupyter-tiedostoon. Ensimmäinen näistä on nimeltään *ostolaskut_aineisto*, ja siinä tuodaan ostolaskuaineisto Excel-tiedostoista, koostetaan ja siivotaan jatkokäyttöä varten. Saatu datakehikko tallennetaan lopuksi csv-tiedostoksi, ja sitä käytetään myöhemmin analyysiosiossa. Ostolaskujen analyysi kokonaisuudessaan löytyy toisesta tiedostosta *ostolaskut_anallyysi.ipynb*.
