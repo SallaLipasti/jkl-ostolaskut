@@ -17,4 +17,12 @@ Aineisto ei ole täydellistä, vaan se sisältää puuttuvia arvoja ja kirjoitus
 
 ## Rakenne   
 
-Tehtävä on jaettu kahteen Jupyter-tiedostoon. Ensimmäinen näistä on nimeltään *ostolaskut_aineisto*, ja siinä tuodaan ostolaskuaineisto Excel-tiedostoista, ja sitä koostetaan ja siivotaan jatkokäyttöä varten. Saatu datakehikko tallennetaan lopuksi csv-tiedostoksi, ja sitä käytetään myöhemmin analyysiosiossa. Ostolaskujen analyysi kokonaisuudessaan löytyy toisesta tiedostosta *ostolaskut_anallyysi.ipynb*.
+Tehtävä on jaettu kahteen Jupyter-tiedostoon. Ensimmäinen näistä on nimeltään [*ostolaskut_aineisto*](https://github.com/SallaLipasti/jkl-ostolaskut/blob/main/ostolaskut_aineisto.ipynb), ja siinä tuodaan ostolaskuaineisto Excel-tiedostoista, ja sitä koostetaan ja siivotaan jatkokäyttöä varten. Saatu datakehikko tallennetaan lopuksi csv-tiedostoksi, ja sitä käytetään myöhemmin analyysiosiossa. Tässä osiossa selvitetään vastauksia seuraaviin kysymyksiin:   
+- Kuinka paljon ostoja eri vuosina on kirjattu kaikkiaan   
+- Mitkä ovat aineiston tilastolliset tunnusluvut
+- Mitkä ovat olleet suurimmat yksittäiset ostot
+- Kuinka paljon ostoja kirjattiin eri vuosina vastuualueittain
+- Millaisia ostoja sosiaali- ja terveyspalveluissa on tehty
+- Ketkä ovat olleet suurimmat ja pienimmät toimittajat   
+
+Ostolaskujen analyysi kokonaisuudessaan löytyy tiedostosta [*ostolaskut_anallyysi.ipynb*](https://github.com/SallaLipasti/jkl-ostolaskut/blob/main/ostolaskut_analyysi.ipynb).
