@@ -17,4 +17,4 @@ Aineisto ei ole täydellistä, vaan se sisältää puuttuvia arvoja ja kirjoitus
 
 ## Rakenne   
 
-Tehtävä on jaettu kahteen Jupyter-tiedostoon. Ensimmäinen näistä on nimeltään *ostolaskut_aineisto*, ja siinä tuodaan ostolaskuaineisto Excel-tiedostoista, koostetaan ja siivotaan jatkokäyttöä varten. Saatu datakehikko tallennetaan lopuksi csv-tiedostoksi, ja sitä käytetään myöhemmin analyysiosiossa. Ostolaskujen analyysi kokonaisuudessaan löytyy toisesta tiedostosta *ostolaskut_anallyysi.ipynb*.
+Tehtävä on jaettu kahteen Jupyter-tiedostoon. Ensimmäinen näistä on nimeltään *ostolaskut_aineisto*, ja siinä tuodaan ostolaskuaineisto Excel-tiedostoista, ja sitä koostetaan ja siivotaan jatkokäyttöä varten. Saatu datakehikko tallennetaan lopuksi csv-tiedostoksi, ja sitä käytetään myöhemmin analyysiosiossa. Ostolaskujen analyysi kokonaisuudessaan löytyy toisesta tiedostosta *ostolaskut_anallyysi.ipynb*.
