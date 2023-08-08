@@ -25,4 +25,4 @@ Tehtävä on jaettu kahteen Jupyter-tiedostoon. Ensimmäinen näistä on nimelt�
 - Millaisia ostoja sosiaali- ja terveyspalveluissa on tehty
 - Ketkä ovat olleet suurimmat ja pienimmät toimittajat   
 
-Ostolaskujen analyysi kokonaisuudessaan löytyy tiedostosta [*ostolaskut_anallyysi.ipynb*](https://github.com/SallaLipasti/jkl-ostolaskut/blob/main/ostolaskut_analyysi.ipynb).
+Ostolaskujen analyysi kokonaisuudessaan löytyy tiedostosta [*ostolaskut_analyysi.ipynb*](https://github.com/SallaLipasti/jkl-ostolaskut/blob/main/ostolaskut_analyysi.ipynb).
