@@ -26,3 +26,5 @@ Tehtävä on jaettu kahteen Jupyter-tiedostoon. Ensimmäinen näistä on nimelt�
 - Ketkä ovat olleet suurimmat ja pienimmät toimittajat   
 
 Ostolaskujen analyysi kokonaisuudessaan löytyy tiedostosta [*ostolaskut_analyysi.ipynb*](https://github.com/SallaLipasti/jkl-ostolaskut/blob/main/ostolaskut_analyysi.ipynb).
+
+**HUOM!** Jupyter-notebookien sivunsisäiset linkit [eivät valitettavasti toimi GitHubissa](https://www.reddit.com/r/github/comments/9z6fjj/anchor_links_on_githubrendered_jupyter_notebooks/?rdt=40310), mutta toimivat moitteettomasti JupyterLabissa ja GitLabissa. 
